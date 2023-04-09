@@ -1,0 +1,7 @@
+C:\Users\naima\source\repos\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\naima\source\repos\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\naima\source\repos\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\naima\source\repos\Strategy\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\naima\source\repos\Strategy\Strategy\obj\Debug\Strategy.pdb
